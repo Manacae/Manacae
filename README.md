@@ -5,7 +5,7 @@
 </p>
 
 <div align="center" dir="auto" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
- <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" />
+ <img style="max-width: 20%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" />
 </div>
 
 <div align="center" dir="auto" <img style = " width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
