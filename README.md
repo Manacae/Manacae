@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- \\ <img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact"/> //
+ \\ <img style="width: 35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact"/> //
 </p>
 
 
