@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! :wave: </h1>
 
 <p align="center">
- I'm a student at UFPB in the course of Computation Science
+ I'm a student at UFPB in the course of Computational Science
 </p>
 
 # 💫 About Me:
