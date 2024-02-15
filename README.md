@@ -1,5 +1,11 @@
 <h1 align="center">Hey There! :wave: </h1>
 
+<p align="center">
+
+ I'm a stundent at UFPB in the course of Computation Science
+ 
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working as an Annotator on the IARIS Project<br>👯 I'm looking to collaborate on open-source projects on this platform<br>🤝I'm looking for help with some fundamentals of AI development<br>🌱 I'm currently learning advanced Python and JavaScript programming<br>⚡ Fun fact - I love reading and playing games!
 
