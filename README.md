@@ -5,7 +5,7 @@
 </p>
 
 <div class='container'>
-<img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&langs_count=8&layout=compact" /></div>
