@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-
+<p align="center">
+:incoming_envelope: Would you like to contact me? Try this adress: <a href='mailto:manacae.1@gmail.com'>manacae.1@gmail.com</a>
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working as an Annotator on the IARIS Project<br>👯 I'm looking to collaborate on open-source projects on this platform<br>🤝I'm looking for help with some fundamentals of AI development<br>🌱 I'm currently learning advanced Python and JavaScript programming<br>⚡ Fun fact - I love reading and playing games!
