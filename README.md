@@ -9,8 +9,12 @@
 </p>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
 </p>
+
+<div style="text-align: center;">
+    [<img width="100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working as an Annotator on the IARIS Project<br>👯 I'm looking to collaborate on open-source projects on this platform<br>🤝I'm looking for help with some fundamentals of AI development<br>🌱 I'm currently learning advanced Python and JavaScript programming<br>⚡ Fun fact - I love reading and playing games!
