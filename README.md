@@ -4,8 +4,8 @@
  I'm a student at UFPB in the course of Computational Science
 </p>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact" />
 </div>
 
 # 💫 About Me:
