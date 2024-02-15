@@ -4,12 +4,10 @@
  A student at UFPB in the course of Computational Science from Brazil
 </p>
 
-<div class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&langs_count=8&layout=compact" /></div>
+<div align="center" dir="auto" <img style = " width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
+ <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact" />
 </div>
+
 
 # 💫 About Me:
 🔭 I’m currently working as an Annotator on the IARIS Project<br>👯 I'm looking to collaborate on open-source projects on this platform<br>🤝I'm looking for help with some fundamentals of AI development<br>🌱 I'm currently learning advanced Python and JavaScript programming<br>⚡ Fun fact - I love reading and playing games!
