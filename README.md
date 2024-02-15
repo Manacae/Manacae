@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://example.com/](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
 </p>
 
 # 💫 About Me:
