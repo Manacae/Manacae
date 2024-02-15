@@ -8,12 +8,9 @@
  \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" /> //
 </p>
 
-<p align="center">
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
-</p>
 
 <div style="text-align: center;">
-    [<img width="100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
+    <img width="20%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/amanda-bandeira-7919a228b/)
 </div>
 
 # 💫 About Me:
