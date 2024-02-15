@@ -4,6 +4,10 @@
  I'm a student at UFPB in the course of Computational Science
 </p>
 
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working as an Annotator on the IARIS Project<br>👯 I'm looking to collaborate on open-source projects on this platform<br>🤝I'm looking for help with some fundamentals of AI development<br>🌱 I'm currently learning advanced Python and JavaScript programming<br>⚡ Fun fact - I love reading and playing games!
 
