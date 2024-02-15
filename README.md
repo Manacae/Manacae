@@ -25,7 +25,7 @@
   <a href="mailto:amandab.campelo15@gmail.com">
     <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>
-  <a href="https://github.com/sponsors/amanda-bandeira-7919a228b/">
+  <a href="https://www.linkedin.com/in/amanda-bandeira-7919a228b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
