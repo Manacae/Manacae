@@ -22,7 +22,9 @@
 
 <p align="center">
 :incoming_envelope: Would you like to contact me? <br/><br/>
- Try this adress: <a href='mailto:manacae.1@gmail.com'>manacae.1@gmail.com</a>
+  <a href="https://www.linkedin.com/in/amanda-bandeira-7919a228b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 # 💫 About Me:
