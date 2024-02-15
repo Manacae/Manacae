@@ -8,8 +8,6 @@
  \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" /> //
 </p>
 
-<h1 align="center"><[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/amanda-bandeira-7919a228b/)>/h1>
-
 # 💫 About Me:
 🔭 I’m currently working as an Annotator on the IARIS Project<br>👯 I'm looking to collaborate on open-source projects on this platform<br>🤝I'm looking for help with some fundamentals of AI development<br>🌱 I'm currently learning advanced Python and JavaScript programming<br>⚡ Fun fact - I love reading and playing games!
 
