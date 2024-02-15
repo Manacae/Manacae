@@ -2,11 +2,10 @@
 
 <p align="center">
  A student at the Federal University of Paraíba (UFPB) in the course of Computational Science
- 
- \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" /> //
 </p>
 
 <p align="center">
+ \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" /> //
 </p>
 
 <p align="center">
