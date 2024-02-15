@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" />
+  <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" />
 </p>
 
 # 💫 About Me:
