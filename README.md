@@ -36,13 +36,17 @@
 ## Education
 
 - :page_facing_up: **Computer Science**\
-:date: 2019 - 2024(Expected Completion)\
+:date: 2019 - 2024 (Expected Completion)\
 :school: **Federal University of Paraíba (UFPB)** - Rio Tinto, Brazil
 
 ## About Me:
 :key: I’m currently working as an Annotator on the IARIS Project<br>:open_hands:I'm looking to collaborate on open-source projects on this platform<br>:hand: I'm looking for help with some fundamentals of AI development<br>:loop: I'm currently learning advanced Python and JavaScript programming<br>:high_brightness: Fun fact - I love reading and playing games!
 
 ## Most used Languages:
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 
 
 # 💻 Tech Stack:
