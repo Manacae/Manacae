@@ -42,9 +42,10 @@
 ## About Me:
 :key: I’m currently working as an Annotator on the IARIS Project<br>:open_hands:I'm looking to collaborate on open-source projects on this platform<br>:hand: I'm looking for help with some fundamentals of AI development<br>:loop: I'm currently learning advanced Python and JavaScript programming<br>:high_brightness: Fun fact - I love reading and playing games!
 
-## Most used Languages:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+## Languages that I can get by:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=Manacae&icon=0&color=0)](https://visitcount.itsvg.in)
+## Languages that I can work well:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- Created with help of GPRM ( https://gprm.itsvg.in ), and alexandresanlim Badges4-README.md-Profile repository, as well as inspiration  -->
