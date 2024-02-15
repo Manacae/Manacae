@@ -4,7 +4,7 @@
  A student at UFPB in the course of Computational Science, and I'm from Brazil!
 </p>
 
-// <div align="center" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
+\\ <div align="center" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
 // <img style="max-width: 20%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" />
 // </div>
 
