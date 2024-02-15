@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
 <p align="center">
- A student at UFPB in the course of Computational Science, and I'm from Brazil!
+ A student at the Federal University of Paraíba (UFPB) in the course of Computational Science
 </p>
 
 <p align="center">
