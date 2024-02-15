@@ -1,15 +1,14 @@
-<h1 align="center">Hey There! :wave: </h1>
+<h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
 <p align="center">
- I'm a student at UFPB in the course of Computational Science, and I'm from Brazil!
+ A student at UFPB in the course of Computational Science from Brazil
 </p>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&theme=radical&show_icons=true&include_all_commits=true" />
-</div>
-
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact" />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manacae&show_icons=true&theme=radical" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&langs_count=8&layout=compact" /></div>
 </div>
 
 # 💫 About Me:
