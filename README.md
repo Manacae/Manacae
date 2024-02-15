@@ -31,7 +31,7 @@
 </p>
 
 <details>
-  <summary>:bookmark_tabs:Extras</summary>
+  <summary>:bookmark_tabs:Summary</summary>
 
 ## Education
 
