@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-:incoming_envelope: Would you like to contact me? Try this adress: <a href='mailto:manacae.1@gmail.com'>manacae.1@gmail.com</a>
+:incoming_envelope: Would you like to contact me? 
+ Try this adress: <a href='mailto:manacae.1@gmail.com'>manacae.1@gmail.com</a>
 </p>
 
 # 💫 About Me:
