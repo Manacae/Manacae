@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- English - Portuguese
+ English - Portuguese (Brazil)
 </p>
 
 <p align="center">
