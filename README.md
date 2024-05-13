@@ -3,9 +3,6 @@
 <p align="center">
  <a href="https://github.com/Manacae/Manacae/tree/main-pt">🇧🇷</a>
 </p>
-
-<a href="link_to_your_repository"><img src="link_to_your_image" alt="Emoji"></a>
-
   
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
