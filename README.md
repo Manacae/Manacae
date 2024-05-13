@@ -24,12 +24,12 @@ Estudante da Universidade Federal da Paraíba (UFPB), cursando atualmente Ciênc
 
 ## Educação
 
-- :page_facing_up: **Computer Science**\
+- :page_facing_up: **Ciência da Computação**\
 :date: 2019 - 2024 (Completando)\
 :school: **Federal University of Paraíba (UFPB)** - Rio Tinto, Brazil
 
 ## Sobre mim:
-:key: Estou atualmente trabalhando como um anotador no projeto IARIS<br>:open_hands: Estou procurando contribuir em projetos open-source nessa plataforma<br>:hand: Estou procurando ajuda em alfuns fundamenteis de desenvolvimento de IA<br>:loop: Estou altalmente aprendendo Python avançado e progrmação em JavaScript<br>:high_brightness: Fato divertido - Eu amo ler e jogar jogos online!
+:key: Estou atualmente trabalhando como um anotador no projeto IARIS<br>:open_hands: Estou procurando contribuir em projetos open-source nessa plataforma<br>:hand: Estou procurando ajuda em alfuns fundamenteis de desenvolvimento de IA<br>:loop: Estou altualmente aprendendo Python avançado e progrmação em JavaScript<br>:high_brightness: Fato divertido - Eu amo ler e jogar jogos online!
 
 ## Linguagens que já trabalhei:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
