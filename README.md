@@ -1,3 +1,6 @@
+## Would it be best to read in another language?
+* [Portuguese](Manacae/main-pt/README.md)
+
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
 <p align="center">
@@ -22,9 +25,6 @@
   </a>
 </p>
 
-
-## Would it be best to read in another language?
-* [Portuguese](Manacae/main-pt/README.md)
 ## Education
 
 - :page_facing_up: **Computer Science**\
