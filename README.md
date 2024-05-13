@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- * [Portuguese](Manacae/main-pt/README.md)
+ * [Portuguese](./main-pt/README.md)
 </p>
 
 <p align="center">
