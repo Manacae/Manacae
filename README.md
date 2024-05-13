@@ -1,6 +1,4 @@
-<p align="center">
- * [🇧🇷](https://github.com/Manacae/Manacae/tree/main-pt)
-</p>
+[🇧🇷](https://github.com/Manacae/Manacae/tree/main-pt)
 
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
