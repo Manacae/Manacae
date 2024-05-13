@@ -12,10 +12,6 @@
  \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact"/> //
 </p>
 
-
-## Would it be best to read in another language?
-* [Portuguese](Manacae/main-pt/README.md)
-
 <p align="center">
 :incoming_envelope: Would you like to contact me? <br/><br/>
  <a href="mailto:amandab.campelo15@gmail.com?">
@@ -26,6 +22,9 @@
   </a>
 </p>
 
+
+## Would it be best to read in another language?
+* [Portuguese](Manacae/main-pt/README.md)
 ## Education
 
 - :page_facing_up: **Computer Science**\
