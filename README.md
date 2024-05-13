@@ -1,6 +1,3 @@
-## Would it be best to read in another language?
-* [Portuguese](./main-pt/README.md)
-
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
 <p align="center">
@@ -24,6 +21,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+## Would it be best to read in another language?
+* [Portuguese](./main-pt/README.md)
 
 ## Education
 
