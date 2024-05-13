@@ -9,7 +9,7 @@ Estudante da Universidade Federal da Paraíba (UFPB), cursando atualmente Ciênc
 </p>
 
 <p align="center">
- Inglês - Português (Brasil)
+  Português (Brasil) - Inglês
 </p>
 
 <p align="center">
