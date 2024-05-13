@@ -9,7 +9,7 @@
 </p>
 
 ## Meu Perfil
- * [Portuguese](./main-pt/README.md)
+ * [Portuguese](Manacae/main-pt/README.md)
 
 <p align="center">
  \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact"/> //
