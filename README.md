@@ -23,7 +23,7 @@
 </p>
 
 ## Would it be best to read in another language?
-* [Portuguese](./main-pt/README.md)
+* [Portuguese](https://github.com/Manacae/Manacae/tree/main-pt)
 
 ## Education
 
