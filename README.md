@@ -8,12 +8,13 @@
  English - Portuguese (Brazil)
 </p>
 
-## Meu Perfil
- * [Portuguese](Manacae/main-pt/README.md)
-
 <p align="center">
  \\ <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manacae&theme=radical&layout=compact"/> //
 </p>
+
+
+## Would it be best to read in another language?
+* [Portuguese](Manacae/main-pt/README.md)
 
 <p align="center">
 :incoming_envelope: Would you like to contact me? <br/><br/>
