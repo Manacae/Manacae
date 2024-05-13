@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/Manacae/Manacae/tree/main-pt">🇧🇷/🇺🇸 "You are here!"</a>
+ <a href="https://github.com/Manacae/Manacae/tree/main-pt">🇧🇷</a> / 🇺🇸 (You are here!)
 </p>
   
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
