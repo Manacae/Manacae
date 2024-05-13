@@ -1,4 +1,6 @@
-[🇧🇷](https://github.com/Manacae/Manacae/tree/main-pt)
+<p align="center">
+ [🇧🇷](https://github.com/Manacae/Manacae/tree/main-pt)
+</p>
 
 <h1 align="center">Hey There! I'm Bandeira :wave: </h1>
 
@@ -23,9 +25,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-## Would it be best to read in another language?
-* [🇧🇷](https://github.com/Manacae/Manacae/tree/main-pt)
 
 ## Education
 
