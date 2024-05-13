@@ -1,5 +1,3 @@
-[🇧🇷](https://github.com/Manacae/Manacae/tree/main-pt)
-
 <p align="center">
  <a href="https://github.com/Manacae/Manacae/tree/main-pt">🇧🇷</a>
 </p>
