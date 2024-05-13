@@ -1,3 +1,7 @@
+<p align="center">
+  🇧🇷 (Você está aqui!)/ <a href="">🇺🇸</a>
+</p>
+
 <h1 align="center">Olá! Sou Bandeira :wave: </h1>
 
 <p align="center">
