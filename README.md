@@ -22,9 +22,6 @@
   </a>
 </p>
 
-<details>
-  <summary>:bookmark_tabs: Summary</summary>
-
 ## Education
 
 - :page_facing_up: **Computer Science**\
