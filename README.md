@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- English - Portuguese (Brazil)
+ Portuguese (Brazil) - English
 </p>
 
 <p align="center">
